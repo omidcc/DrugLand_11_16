@@ -1,0 +1,16 @@
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.DAL\bin\Release\Balancika.DAL.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.DAL\bin\Release\Balancika.DAL.pdb
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.DAL\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.DAL\obj\Release\Balancika.DAL.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.DAL\obj\Release\Balancika.DAL.pdb
+H:\DrugLand\project final\final-indent-master\Balancika.DAL\bin\Release\Balancika.DAL.dll
+H:\DrugLand\project final\final-indent-master\Balancika.DAL\bin\Release\Balancika.DAL.pdb
+H:\DrugLand\project final\final-indent-master\Balancika.DAL\bin\Release\Microsoft.Web.Infrastructure.dll
+H:\DrugLand\project final\final-indent-master\Balancika.DAL\obj\Release\Balancika.DAL.dll
+H:\DrugLand\project final\final-indent-master\Balancika.DAL\obj\Release\Balancika.DAL.pdb
+D:\11_11_2015\DrugLand_Financial\Balancika.DAL\bin\Release\Balancika.DAL.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.DAL\bin\Release\Balancika.DAL.pdb
+D:\11_11_2015\DrugLand_Financial\Balancika.DAL\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.DAL\obj\Release\Balancika.DAL.csprojResolveAssemblyReference.cache
+D:\11_11_2015\DrugLand_Financial\Balancika.DAL\obj\Release\Balancika.DAL.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.DAL\obj\Release\Balancika.DAL.pdb

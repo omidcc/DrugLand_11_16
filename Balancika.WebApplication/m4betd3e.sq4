@@ -1,0 +1,253 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Main.Master" AutoEventWireup="true" CodeBehind="ContactAndAddress.aspx.cs" Inherits="Balancika.ContactAndAddress" %>
+
+<%@ Register TagPrefix="telerik" Namespace="Telerik.Web.UI" Assembly="Telerik.Web.UI, Version=2015.1.225.45, Culture=neutral, PublicKeyToken=121fae78165ba3d4" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainHeader" runat="server">
+    <h1>Address and Contact Information</h1>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+  
+        <section class="form-horizontal">
+            <div class="box">
+                <%--  <button id="addressDiv" type="submit" class="btn bg-olive btn-flat margin" onclick="this.disable=true">Address Information </button>--%>
+                <asp:Button ID="addressDiv" runat="server" ClientIDMode="Static" CssClass="btn bg-olive btn-flat margin" Text="Address Information Save" OnClientClick="return false" UseSubmitBehavior="false" />
+                <%-- <button id="contactDiv" type="submit" class="btn bg-purple btn-flat margin">Contact Information</button>--%>
+                <asp:Button ID="contactDiv" runat="server" ClientIDMode="Static" CssClass="btn bg-purple btn-flat margin" Text="Contact Information Save" OnClientClick="return false" UseSubmitBehavior="false" OnClick="btnSave_Click" />
+                <div id="addressInformationDiv" class="box box-primary" style="width: auto">
+                    <div class="box-header with-border" style="width: 100%">
+                        <h1 style="font-size: 20px; font-weight: bold; color: green">Billing Address </h1>
+                    </div>
+                      <form id="form1" runat="server">
+                        <telerik:RadScriptManager ID="RadScriptManager2" runat="server"></telerik:RadScriptManager>
+                    <div id="billingAddressInformationBoxBody" class="box-body">
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="billingAddressLine1" class="col-sm-4 control-label">Address Line 1</label>
+                                <div class="col-sm-8">
+                                    <textarea type="text" class="form-control" width="60px" name="billingAddressLine1" id="billingAddressLine1" placeholder="Address" runat="server"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+
+                            <div class="form-group">
+                                <label for="billingAddressLine2" class="col-sm-4 control-label">Address Line 2</label>
+                                <div class="col-sm-8">
+                                    <textarea type="text" class="form-control" width="60px" name="billingAddressLine2" id="billingAddressLine2" placeholder="Address" runat="server"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group ">
+                                <label for="billingCountryDropDownList" class="col-sm-4 control-label">Country</label>
+                                <div class="col-xs-8">
+                                    <telerik:RadAjaxPanel ID="RadAjaxPanel1" runat="server">
+                                        <telerik:RadDropDownList ID="billingCountryDropDownList"
+                                            CssClass="form-control"
+                                            runat="server" padding-left="20px"
+                                            Width="100%"
+                                            AutoPostBack="true"
+                                            DefaultMessage="Select Country"
+                                            OnSelectedIndexChanged="billingCountryDropDownList_SelectedIndexChanged">
+                                        </telerik:RadDropDownList>
+
+                                    </telerik:RadAjaxPanel>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group ">
+                                <label for="txtCity" class="col-sm-4 control-label">City</label>
+                                <div class="col-lg-8">
+                                    <input type="text" class="form-control" width="60px" name="txtCity" id="txtCity" placeholder="Web Address" runat="server" />
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group ">
+                                <label for="txtZipCode" class="col-sm-4 control-label">Zip Code</label>
+                                <div class="col-lg-8">
+                                    <input type="text" class="form-control" width="60px" name="txtZipCode" id="txtZipCode" placeholder="Zip Code" runat="server" />
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group ">
+                                <label for="txtPhone" class="col-sm-4 control-label">Phone Number</label>
+                                <div class="col-lg-8">
+                                    <input type="text" class="form-control" width="60px" name="txtPhone" id="txtPhone" placeholder="Phone Number" runat="server" />
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-group ">
+                                <label for="txtMobile" class="col-sm-4 control-label">Mobile</label>
+                                <div class="col-lg-8">
+                                    <input type="text" class="form-control" width="60px" name="txtMobile" id="txtMobile" placeholder="Zip Code" runat="server" />
+                                </div>
+
+                            </div>
+                        </div>
+                      
+                        <div class="col-md-6">
+                            <div class="form-group ">
+                                <label for="txtWeb" class="col-sm-4 control-label">Web</label>
+                                <div class="col-lg-8">
+                                    <input type="text" class="form-control" width="60px" name="txtWeb" id="txtWeb" placeholder="Web" runat="server" />
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                        <div class="col-sm-offset-2 col-sm-10">
+                            <asp:Button ID="button1" runat="server" ClientIDMode="Static" CssClass="btn btn-success" Text="Save Company Information" OnClick="btnBillingInformationSave_Click" />
+                            <input class="btn btn-warning" runat="server" onserverclick="btnClear_Click" type="button" value="Clear Information" />
+                        </div>
+                    </div>
+                    </div>
+                          </form>
+                    <form id="form2" runat="server">
+                        <telerik:RadScriptManager ID="RadScriptManager1" runat="server"></telerik:RadScriptManager>
+                    <div id="shippingAddressInformationDiv" class="box box-primary" style="width: auto">
+                    <div class="box-header with-border" style="width: 100%">
+                        <h1 style="font-size: 20px; font-weight: bold; color: green">Shipping Address </h1>
+                    </div>
+                    <div id="shippinhgAddressInformationBoxBody" class="box-body" runat="server">
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="shippingaddressLine1" class="col-sm-4 control-label">Address Line 1</label>
+                                <div class="col-sm-8">
+                                    <textarea type="text" class="form-control" width="60px" name="shippingAddressLine1" id="shippingAddressLine1" placeholder="Address" runat="server"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+
+                            <div class="form-group">
+                                <label for="shippingAddressLine2" class="col-sm-4 control-label">Address Line 2</label>
+                                <div class="col-sm-8">
+                                    <textarea type="text" class="form-control" width="60px" name="shippingAddressLine2" id="shippingAddressLine2" placeholder="Address" runat="server"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group ">
+                                <label for="shippingCountryDropDownList" class="col-sm-4 control-label">Country</label>
+                                <div class="col-xs-8">
+                                    <telerik:RadAjaxPanel ID="RadAjaxPanel2" runat="server">
+                                        <telerik:RadDropDownList ID="shippingCountryDropDownList"
+                                            CssClass="form-control"
+                                            runat="server" padding-left="20px"
+                                            Width="100%"
+                                            AutoPostBack="true"
+                                            DefaultMessage="Select Country"
+                                            OnSelectedIndexChanged="shippingCountryDropDownList_SelectedIndexChanged">
+                                        </telerik:RadDropDownList>
+
+                                    </telerik:RadAjaxPanel>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group ">
+                                <label for="shippingCity" class="col-sm-4 control-label">City</label>
+                                <div class="col-lg-8">
+                                    <input type="text" class="form-control" width="60px" name="shippingCity" id="shippingCity" placeholder="Web Address" runat="server" />
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group ">
+                                <label for="shippingZipCode" class="col-sm-4 control-label">Zip Code</label>
+                                <div class="col-lg-8">
+                                    <input type="text" class="form-control" width="60px" name="shippingZipCode" id="shippingZipCode" placeholder="Zip Code" runat="server" />
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group ">
+                                <label for="shippingPhone" class="col-sm-4 control-label">Phone Number</label>
+                                <div class="col-lg-8">
+                                    <input type="text" class="form-control" width="60px" name="shippingPhone" id="shippingPhone" placeholder="Phone Number" runat="server" />
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-group ">
+                                <label for="shippingMobile" class="col-sm-4 control-label">Mobile</label>
+                                <div class="col-lg-8">
+                                    <input type="text" class="form-control" width="60px" name="shippingMobile" id="shippingMobile" placeholder="Zip Code" runat="server" />
+                                </div>
+
+                            </div>
+                        </div>
+                      
+                        <div class="col-md-6">
+                            <div class="form-group ">
+                                <label for="shippingWeb" class="col-sm-4 control-label">Web</label>
+                                <div class="col-lg-8">
+                                    <input type="text" class="form-control" width="60px" name="shippingWeb" id="shippingWeb" placeholder="Web" runat="server" />
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="form-group">
+                        <div class="col-sm-offset-2 col-sm-10">
+                            <asp:Button ID="shippingSave" runat="server" ClientIDMode="Static" CssClass="btn btn-success" Text="Save Company Information" OnClick="btnShippingInformationSave_Click" />
+                            <input class="btn btn-warning" runat="server" onserverclick="btnShippingClear_Click" type="button" value="Clear Information" />
+                        </div>
+                    </div>
+                    </div>
+                    </div>
+                     </form>
+                </div>
+
+   
+<form id="form3" runat="server">
+   <telerik:RadScriptManager ID="RadScriptManager3" runat="server"></telerik:RadScriptManager>
+
+
+                <div id="contactInformationDiv" class="box">
+                </div>
+                </form>
+
+            <h1 id="text1"></h1>
+
+            </div>
+     
+
+
+        </section>
+
+    </form>
+    <script>
+        $(document).ready(function () {
+            var i = prompt("what is your name");
+            document.getElementById("#text1").innerHTML = "Khairul Omi";
+            $("#addressInformationDiv").hide();
+            $("#contactInformationDiv").hide();
+            $("#addressDiv").click(function () {
+                $("#contactInformationDiv").hide(200);
+                $("#addressInformationDiv").show(200);
+
+            });
+            $("#contactDiv").click(function () {
+                $("#addressInformationDiv").hide(200);
+                $("#contactInformationDiv").show(200);
+            });
+            $("#form1").validate({
+
+            });
+
+        });
+    </script>
+</asp:Content>

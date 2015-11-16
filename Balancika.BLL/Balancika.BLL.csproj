@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{41DBBE6D-07CC-4DD3-8151-B8BCE0B0AEED}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Balancika.BLL</RootNamespace>
+    <AssemblyName>Balancika.BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Addresses.cs" />
+    <Compile Include="AppFunctionality.cs" />
+    <Compile Include="AppModule.cs" />
+    <Compile Include="AppPermission.cs" />
+    <Compile Include="Bank.cs" />
+    <Compile Include="BankAccounts.cs" />
+    <Compile Include="Base\AddressesBase.cs" />
+    <Compile Include="Base\AppFunctionalityBase.cs" />
+    <Compile Include="Base\AppModuleBase.cs" />
+    <Compile Include="Base\AppPermissionBase.cs" />
+    <Compile Include="Base\BankAccountsBase.cs" />
+    <Compile Include="Base\BankBase.cs" />
+    <Compile Include="Base\ChartOfAccountBase.cs" />
+    <Compile Include="Base\ChartOfAccountGroupBase.cs" />
+    <Compile Include="Base\CompanyBase.cs" />
+    <Compile Include="Base\ContactsBase.cs" />
+    <Compile Include="Base\CostCenterBase.cs" />
+    <Compile Include="Base\CustomerBase.cs" />
+    <Compile Include="Base\DepartmentBase.cs" />
+    <Compile Include="Base\DesignationBase.cs" />
+    <Compile Include="Base\EmployeeBase.cs" />
+    <Compile Include="Base\JournalDetailsBase.cs" />
+    <Compile Include="Base\JournalMasterBase.cs" />
+    <Compile Include="Base\ListTableBase.cs" />
+    <Compile Include="Base\SupplierBase.cs" />
+    <Compile Include="Base\UserLoginLogBase.cs" />
+    <Compile Include="Base\UserRoleBase.cs" />
+    <Compile Include="Base\UserRoleMappingBase.cs" />
+    <Compile Include="Base\UsersBase.cs" />
+    <Compile Include="ChartOfAccount.cs" />
+    <Compile Include="ChartOfAccountGroup.cs" />
+    <Compile Include="Company.cs" />
+    <Compile Include="Contacts.cs" />
+    <Compile Include="CostCenter.cs" />
+    <Compile Include="Customer.cs" />
+    <Compile Include="Department.cs" />
+    <Compile Include="Designation.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="JournalDetails.cs" />
+    <Compile Include="JournalMaster.cs" />
+    <Compile Include="ListTable.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Supplier.cs" />
+    <Compile Include="UserLoginLog.cs" />
+    <Compile Include="UserRole.cs" />
+    <Compile Include="UserRoleMapping.cs" />
+    <Compile Include="Users.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Balancika.DAL\Balancika.DAL.csproj">
+      <Project>{3c18b732-efcd-4e93-909a-539b5445ba5c}</Project>
+      <Name>Balancika.DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Scripts\jquery-2.1.4.intellisense.js" />
+    <Content Include="Scripts\jquery-2.1.4.js" />
+    <Content Include="Scripts\jquery-2.1.4.min.js" />
+    <Content Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Scripts\jquery-2.1.4.min.map" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

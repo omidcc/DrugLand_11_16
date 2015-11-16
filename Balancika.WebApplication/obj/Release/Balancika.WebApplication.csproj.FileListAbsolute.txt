@@ -1,0 +1,87 @@
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\Balancika.WebApplication.dll.config
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\Balancika.WebApplication.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\Balancika.WebApplication.pdb
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\Balancika.BLL.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\EntityFramework.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\System.Web.Optimization.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\System.Web.Providers.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\Balancika.DAL.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\Balancika.BLL.pdb
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\System.Web.Optimization.xml
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\EntityFramework.xml
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\System.Web.Providers.xml
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\bin\Balancika.DAL.pdb
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\obj\Release\Balancika.WebApplication.csprojResolveAssemblyReference.cache
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\obj\Release\Balancika.WebApplication.dll.licenses
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\obj\Release\Balancika.WebApplication.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.WebApplication\obj\Release\Balancika.WebApplication.pdb
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\Balancika.WebApplication.dll.config
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\Balancika.WebApplication.dll
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\Balancika.WebApplication.pdb
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\AspNet.ScriptManager.bootstrap.dll
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\AspNet.ScriptManager.jQuery.dll
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\Balancika.BLL.dll
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\EntityFramework.dll
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\EntityFramework.SqlServer.dll
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\System.Web.Optimization.dll
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\System.Web.Providers.dll
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\Balancika.DAL.dll
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\Balancika.BLL.pdb
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\System.Web.Optimization.xml
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\EntityFramework.xml
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\EntityFramework.SqlServer.xml
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\System.Web.Providers.xml
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\bin\Balancika.DAL.pdb
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\obj\Release\Balancika.WebApplication.csprojResolveAssemblyReference.cache
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\obj\Release\Balancika.WebApplication.dll.licenses
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\obj\Release\Balancika.WebApplication.dll
+H:\DrugLand\project final\final-indent-master\Balancika.WebApplication\obj\Release\Balancika.WebApplication.pdb
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\Balancika.WebApplication.dll.config
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\Balancika.WebApplication.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\Balancika.WebApplication.pdb
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\AspNet.ScriptManager.bootstrap.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\AspNet.ScriptManager.jQuery.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\Balancika.BLL.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\EntityFramework.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\EntityFramework.SqlServer.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\System.Web.Optimization.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\System.Web.Providers.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\Balancika.DAL.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\Balancika.BLL.pdb
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\System.Web.Optimization.xml
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\EntityFramework.xml
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\EntityFramework.SqlServer.xml
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\System.Web.Providers.xml
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\bin\Balancika.DAL.pdb
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\obj\Release\Balancika.WebApplication.csprojResolveAssemblyReference.cache
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\obj\Release\Balancika.WebApplication.dll.licenses
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\obj\Release\Balancika.WebApplication.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.WebApplication\obj\Release\Balancika.WebApplication.pdb

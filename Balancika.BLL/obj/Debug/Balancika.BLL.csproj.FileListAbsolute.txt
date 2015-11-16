@@ -1,0 +1,126 @@
+D:\Software Developments\Balancika\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+D:\Software Developments\Balancika\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+D:\Software Developments\Balancika\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+D:\Software Developments\Balancika\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+D:\Software Developments\Balancika\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+D:\Software Developments\Balancika\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+D:\Software Developments\Balancika\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+F:\BalancikaAttendanceApplication\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+F:\BalancikaAttendanceApplication\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+F:\BalancikaAttendanceApplication\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+F:\BalancikaAttendanceApplication\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+F:\BalancikaAttendanceApplication\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+F:\BalancikaAttendanceApplication\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+F:\BalancikaAttendanceApplication\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+D:\project_balancika\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+D:\project_balancika\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+D:\project_balancika\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+D:\project_balancika\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+D:\project_balancika\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+D:\project_balancika\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+D:\project_balancika\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+D:\Project Work\BalancikaSolutions\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+D:\Project Work\BalancikaSolutions\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+D:\Project Work\BalancikaSolutions\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+D:\Project Work\BalancikaSolutions\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+D:\Project Work\BalancikaSolutions\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+D:\Project Work\BalancikaSolutions\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+D:\Project Work\BalancikaSolutions\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+F:\TestWebApp\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+F:\TestWebApp\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+F:\TestWebApp\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+F:\TestWebApp\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+F:\TestWebApp\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+F:\TestWebApp\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+F:\TestWebApp\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+H:\omi\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+H:\omi\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+H:\omi\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+H:\omi\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+H:\omi\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+H:\omi\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+H:\omi\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+F:\Disk\Bakcup\balancika-solutions\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+F:\Disk\Bakcup\balancika-solutions\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+F:\Disk\Bakcup\balancika-solutions\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+F:\Disk\Bakcup\balancika-solutions\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+F:\Disk\Bakcup\balancika-solutions\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+F:\Disk\Bakcup\balancika-solutions\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+F:\Disk\Bakcup\balancika-solutions\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+F:\TestWebApp\AnotherBalancika\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+F:\TestWebApp\AnotherBalancika\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+F:\TestWebApp\AnotherBalancika\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+F:\TestWebApp\AnotherBalancika\BalancikaSolutions\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+F:\TestWebApp\AnotherBalancika\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+F:\TestWebApp\AnotherBalancika\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+F:\TestWebApp\AnotherBalancika\BalancikaSolutions\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+D:\Software Developments\Balancika\BalancikaSolutions-master\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+D:\Software Developments\Balancika\BalancikaSolutions-master\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+D:\Software Developments\Balancika\BalancikaSolutions-master\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+D:\Software Developments\Balancika\BalancikaSolutions-master\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+D:\Software Developments\Balancika\BalancikaSolutions-master\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+D:\Software Developments\Balancika\BalancikaSolutions-master\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+D:\Software Developments\Balancika\BalancikaSolutions-master\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+C:\Users\omi\Downloads\Compressed\BalancikaSolutions-master_With menu\BalancikaSolutions-master\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+C:\Users\omi\Downloads\Compressed\BalancikaSolutions-master_With menu\BalancikaSolutions-master\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+C:\Users\omi\Downloads\Compressed\BalancikaSolutions-master_With menu\BalancikaSolutions-master\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+C:\Users\omi\Downloads\Compressed\BalancikaSolutions-master_With menu\BalancikaSolutions-master\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+C:\Users\omi\Downloads\Compressed\BalancikaSolutions-master_With menu\BalancikaSolutions-master\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+C:\Users\omi\Downloads\Compressed\BalancikaSolutions-master_With menu\BalancikaSolutions-master\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+C:\Users\omi\Downloads\Compressed\BalancikaSolutions-master_With menu\BalancikaSolutions-master\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+E:\OfficeWork Final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+E:\OfficeWork Final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+E:\OfficeWork Final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+E:\OfficeWork Final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+E:\OfficeWork Final\final-indent-master\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+E:\OfficeWork Final\final-indent-master\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+E:\OfficeWork Final\final-indent-master\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+H:\DrugLand\project final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+H:\DrugLand\project final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+H:\DrugLand\project final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+H:\DrugLand\project final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+H:\DrugLand\project final\final-indent-master\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+H:\DrugLand\project final\final-indent-master\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+H:\DrugLand\project final\final-indent-master\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+G:\DrugLand\project final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+G:\DrugLand\project final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+G:\DrugLand\project final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+G:\DrugLand\project final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+G:\DrugLand\project final\final-indent-master\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+G:\DrugLand\project final\final-indent-master\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+G:\DrugLand\project final\final-indent-master\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+F:\file Date Wise\7_11_2015 Drugland Financial Management Application\project final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+F:\file Date Wise\7_11_2015 Drugland Financial Management Application\project final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+F:\file Date Wise\7_11_2015 Drugland Financial Management Application\project final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+F:\file Date Wise\7_11_2015 Drugland Financial Management Application\project final\final-indent-master\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+F:\file Date Wise\7_11_2015 Drugland Financial Management Application\project final\final-indent-master\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+F:\file Date Wise\7_11_2015 Drugland Financial Management Application\project final\final-indent-master\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+F:\file Date Wise\7_11_2015 Drugland Financial Management Application\project final\final-indent-master\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+G:\Balancika\BalancikaSolution\DrugLand_Financial\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+G:\Balancika\BalancikaSolution\DrugLand_Financial\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+G:\Balancika\BalancikaSolution\DrugLand_Financial\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+G:\Balancika\BalancikaSolution\DrugLand_Financial\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+G:\Balancika\BalancikaSolution\DrugLand_Financial\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+G:\Balancika\BalancikaSolution\DrugLand_Financial\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+G:\Balancika\BalancikaSolution\DrugLand_Financial\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+E:\omi\DrugLand_Financial\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+E:\omi\DrugLand_Financial\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+E:\omi\DrugLand_Financial\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+E:\omi\DrugLand_Financial\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+E:\omi\DrugLand_Financial\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+E:\omi\DrugLand_Financial\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+E:\omi\DrugLand_Financial\Balancika.BLL\obj\Debug\Balancika.BLL.pdb
+D:\11_11_2015\DrugLand_Financial\Balancika.BLL\bin\Debug\Balancika.BLL.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.BLL\bin\Debug\Balancika.BLL.pdb
+D:\11_11_2015\DrugLand_Financial\Balancika.BLL\bin\Debug\Balancika.DAL.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.BLL\bin\Debug\Balancika.DAL.pdb
+D:\11_11_2015\DrugLand_Financial\Balancika.BLL\obj\Debug\Balancika.BLL.csprojResolveAssemblyReference.cache
+D:\11_11_2015\DrugLand_Financial\Balancika.BLL\obj\Debug\Balancika.BLL.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.BLL\obj\Debug\Balancika.BLL.pdb

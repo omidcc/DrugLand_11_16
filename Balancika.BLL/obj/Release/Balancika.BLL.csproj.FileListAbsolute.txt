@@ -1,0 +1,21 @@
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.BLL\bin\Release\Balancika.BLL.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.BLL\bin\Release\Balancika.BLL.pdb
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.BLL\bin\Release\Balancika.DAL.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.BLL\bin\Release\Balancika.DAL.pdb
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.BLL\obj\Release\Balancika.BLL.csprojResolveAssemblyReference.cache
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.BLL\obj\Release\Balancika.BLL.dll
+C:\Users\omi\Desktop\project final\final-indent-master\Balancika.BLL\obj\Release\Balancika.BLL.pdb
+H:\DrugLand\project final\final-indent-master\Balancika.BLL\bin\Release\Balancika.BLL.dll
+H:\DrugLand\project final\final-indent-master\Balancika.BLL\bin\Release\Balancika.BLL.pdb
+H:\DrugLand\project final\final-indent-master\Balancika.BLL\bin\Release\Balancika.DAL.dll
+H:\DrugLand\project final\final-indent-master\Balancika.BLL\bin\Release\Balancika.DAL.pdb
+H:\DrugLand\project final\final-indent-master\Balancika.BLL\obj\Release\Balancika.BLL.csprojResolveAssemblyReference.cache
+H:\DrugLand\project final\final-indent-master\Balancika.BLL\obj\Release\Balancika.BLL.dll
+H:\DrugLand\project final\final-indent-master\Balancika.BLL\obj\Release\Balancika.BLL.pdb
+D:\11_11_2015\DrugLand_Financial\Balancika.BLL\bin\Release\Balancika.BLL.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.BLL\bin\Release\Balancika.BLL.pdb
+D:\11_11_2015\DrugLand_Financial\Balancika.BLL\bin\Release\Balancika.DAL.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.BLL\bin\Release\Balancika.DAL.pdb
+D:\11_11_2015\DrugLand_Financial\Balancika.BLL\obj\Release\Balancika.BLL.csprojResolveAssemblyReference.cache
+D:\11_11_2015\DrugLand_Financial\Balancika.BLL\obj\Release\Balancika.BLL.dll
+D:\11_11_2015\DrugLand_Financial\Balancika.BLL\obj\Release\Balancika.BLL.pdb
